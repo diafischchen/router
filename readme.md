@@ -2,7 +2,7 @@
 ###### German Documentation
 ###### Latest Version 1.2
 
-### The project was originally just an exercise. I am releasing it anyway
+### The project was originally just an exercise. I am making it public anyway
 
 -------------------------------------------------------------------
 
